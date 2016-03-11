@@ -1,10 +1,10 @@
-name: Arti Annaswamy
-bio: 'Data analytics, process improvement, project management, coffee drinking'
+name: Imane Khalis
+bio: 'Aspiring software engineer, C++, Synhcronous programming languages'
 
 # main text of home
 picture: 'assets/images/profile.jpg'
 
-url: http://artiannaswamy.com
+url: http://imanekhls.github.io/indigo
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -12,19 +12,18 @@ permalink: /:title/
 markdown: kramdown
 highlighter: rouge
 
-analytics-google: 'UA-74313908-1'
-disqus: artiannaswamy
+analytics-google: 'UA-MYANALYTICS'
+disqus: mydisqus
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
-twitter: aannasw
+twitter: mytwitter
 #instagram: myinstagram
-pinterest: annasw
-linkedin: artiannaswamy
+linkedin: imane-khalis
 #youtube: myyoutube
 #spotify: myspotify
-github: aannasw
-email: hello@artiannaswamy.com
+github: imanekhls
+email: imane-khalis@outlook.com
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
@@ -59,6 +58,6 @@ gems:
   - jekyll-paginate
 
 jekyll-mentions:
-    base_url: http://artiannaswamy.com
+    base_url: https://github.com
 
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, indigo-gh-pages.zip, Rakefile, screen-shot.png, travis.sh]
