@@ -1,10 +1,10 @@
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
+name: Imane Khalis
+bio: 'Aspiring software engineer'
 
 # main text of home
 picture: 'assets/images/profile.jpg'
 
-url: http://sergiokopplin.github.io/indigo
+url: http://imanekhls.github.io/indigo
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -16,14 +16,14 @@ analytics-google: 'UA-MYANALYTICS'
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
+#facebook: myfacebook
 twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
-github: mygithub
-email: myemail@gmail.com
+#instagram: myinstagram
+linkedin: imane-khalis
+#youtube: myyoutube
+#spotify: myspotify
+github: imanekhls
+email: imane-khalis@outlook.com
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
