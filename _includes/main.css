@@ -503,9 +503,7 @@ pre {
 .consulting /* arti-changes */ {
   margin-top: 125px;
 },
-.resume{
-	  margin-top: 125px;
-}
+.resume, /* mani- added */
 .home > .list,
 .blog > .list,
 .projects > .list {
