@@ -3,7 +3,7 @@
 title: "CV"
 description: My CV
 date: 2016-03-02
-layout: page 
+layout: default 
 permalink: /resume/index.html
 
 <!-- there should be a pdf.html in the _layouts folder-->
