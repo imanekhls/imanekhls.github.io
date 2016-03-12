@@ -1,1 +1,9 @@
 
+---
+title: "CV"
+description: My CV
+date: 2016-03-02
+layout: pdf # there should be a pdf.html in the _layouts folder
+permalink: /resume/
+
+<iframe src="https://drive.google.com/file/d/1N6BXPZIImprLOOchexYK0K3mpw8qA6hdpZfuH36X-YDU3pksmGPVQMVIbFEr/preview" width="640" height="480"></iframe>
