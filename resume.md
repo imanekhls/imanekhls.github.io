@@ -2,7 +2,7 @@
 ---
 title: Resume
 layout: page 
-permalink: /resume/index.html
+permalink: resume/index.html
 ---
 Hello here is my pdf resume
 <!-- there should be a pdf.html in the _layouts folder-->
