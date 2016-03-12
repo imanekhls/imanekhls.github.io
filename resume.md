@@ -1,6 +1,6 @@
 
 ---
-title: "CV"
+title: "Resume"
 description: My CV
 date: 2016-03-02
 layout: default 
